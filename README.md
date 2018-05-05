@@ -1,2 +1,1 @@
-
-master piece
+go
